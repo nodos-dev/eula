@@ -1,0 +1,98 @@
+This Nodos™ License Agreement (the “Agreement”) applies to your use of Nodos™.
+
+This is a legal agreement (“Agreement”) between you (“YOU”) and MediaZ Teknoloji A.S. (“MediaZ”) located at the address of Zafer SB Mah. Nilufer Sk. No:32/3 Gaziemir/Izmir Turkey. This Agreement states the terms and conditions upon which MediaZ Teknoloji A.S. offers to license the Nodos™, together with all related documentation and accompanying items (collectively, the “Software”).
+
+READ THIS DOCUMENT CAREFULLY BEFORE ACTIVATING THIS SOFTWARE. BY CLICKING "I AGREE" BUTTON, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.  IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT ACTIVATE, COPY OR OTHERWISE USE THE SOFTWARE AND DESTROY ALL COPIES IN YOUR POSSESSION. BY ACTIVATING THE SOFTWARE, YOU AGREE THAT YOU HAVE READ THIS LICENSE, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+Definitions:
+
+As used in this Agreement, the following capitalized words have the following meanings:
+
+“Commercial Purpose” means any utilization of the Software that benefits the user in a commercial way, even if it does not lead to any direct or indirect income.
+
+“Non-Commercial” means any utilization of the Software that doesn't benefit the developer/user in a commercial way, and it does not lead to any direct or indirect income.
+
+“MediaZ” means MediaZ Teknoloji A.S. located at the address of Zafer SB Mah. Nilufer Sk. No:32/3 Gaziemir/Izmir Turkey.
+
+“Software” means Nodos™, including its Binary Code and Source Code, together with all related documentation.
+
+“Source Code” means the human readable form of a software program, including all modules it contains, plus any associated interface definition files, scripts used to control compilation.
+
+"Binary Code" means the software in binary code form such as object code or an executable.
+
+“You,” “your” or “yourself”, whether or not capitalized in this Agreement, means you as an individual or the legal entity exercising rights under this Agreement through you. For legal entities, “you,” “your” and “yourself” include any entity that controls, is controlled by, or is under common control with you, where “control” means the power, direct or indirect, to cause the direction or management of the entity in question, whether by contract or otherwise, or ownership of 50% or more of the outstanding shares or beneficial ownership of the entity in question.
+
+Any terms not defined above, are defined within this agreement.
+
+The Licensed Technology
+
+1. What Technology MediaZ Is Licensing to You
+
+The Licensed Technology licensed to you under this Agreement includes Nodos™ engine, subsytems and plugins code that is copied to your computer when you download or install Nodos™, whether in object code or source code form.
+
+The Licensed Technology includes any modified version of any of the foregoing that you make under the License.
+
+
+2. How You Can Use the Licensed Technology
+MediaZ grants you a non-exclusive, non-transferable, non-sublicensable license to privately use, reproduce, display, perform, and modify the Licensed Technology in accordance with the terms of this Agreement (the “License”). This means that as long as you are not violating this Agreement (such as by exceeding the Instance limitation stated in Section 4(a)) or applicable law, you can privately use the Licensed Technology however you want, including to develop Products. By “Products” we mean products, services, or any other projects that either (a) are made using any Licensed Technology or (b) combine any Licensed Technology with any other software or content.
+
+
+3. What you Pay MediaZ for Using the Licensed Technology
+For use of the Licensed Technology, you will need to purchase Instance subscriptions (described in Section 4(a)) for each Instance which the Licensed Technology is installed, unless you qualify for an exception. See Section 4(b) for exceptions related to personal hobbyists, indie developers (those making less than $1,000,000 a year), non-commercial uses, and educational institutions.
+
+
+4. Other Restrictions on Your Use of the Licensed Technology
+
+a. Instance Subscriptions
+“Instance” means the right granted to you by MediaZ to allow one Computer to access and use the Licensed Technology on your behalf in accordance with the terms and conditions of this Agreement. Instances are offered as automatically renewing subscriptions.
+
+An Instance is specific for a single computer or workstation that Nodos™ is installed. You may run the Instance(s) as for running nodegraph(s) or designing them, either as an engine or workstation.
+
+b. Exceptions to Instance Subscription Requirements
+The following exceptions apply to the Instance subscription requirements stated in Section 4(a).
+
+i. Personal and indie exception. During any period that you, together with any entities in your corporate group, have generated less than $1,000,000 USD in gross revenue over the last 12 months, the Instance subscription requirement will not apply to your Users. For purposes of this calculation, your corporate group means any entities that control, are controlled by, or are under common control with you and revenue includes any advances received or other funds raised.
+
+ii. Educational exception. If you are an educational institution, like a school or a library, the Instance subscription requirement does not apply to your Users when they are accessing the Licensed Technology only for educational purposes.
+
+iii. Non-commercial exception. The Instance subscription requirement does not apply to your Users when they are accessing the Licensed Technology only for non-commercial purposes. Non-commercial purpose means a purpose without any direct or indirect commercial benefit. All uses of the Licensed Technology by or on behalf of commercial entities are regarded as being for commercial purposes.
+
+c. Non-Compatible Licenses
+You may not, and may not permit others to, combine, Distribute, or otherwise use the Licensed Technology with any code or other content which is covered by a license that would directly or indirectly require that all or part of the Licensed Technology be governed under any terms other than those of this Agreement (those licenses, the “Non-Compatible Licenses”). This means, for example, that you may not combine the Licensed Technology with code or content that is licensed under any of the following licenses: GNU General Public License (GPL), Lesser GPL (LGPL) (unless you are merely dynamically linking a shared library), or Creative Commons Attribution-ShareAlike License.
+
+d. General Restrictions
+You must ensure that your activities with the Licensed Technology do not:
+• violate any applicable law or regulation;
+• result in the Licensed Technology being rented or leased;
+• misappropriate any of our other products or services;
+• support a claim by you or any third party that the Licensed Technology infringes a patent;
+• result in a sale or grant of a security interest in any Licensed Technology.
+
+
+5. Intellectual Property
+ 
+a. Rights ownership. Licensee acknowledges that MediaZ is the sole owner of all intellectual property rights in the Software, Source Code or any part thereof and any written materials, logos, names and other support materials provided to Licensee, whether directly or indirectly, by MediaZ in connection with the Software or any part thereof. No title to any intellectual property rights (including trade secret rights) in the Software or any part thereof, or any support materials provided to Licensee by MediaZ, whether directly or indirectly, in connection with the Software or any part thereof, are transferred to the Licensee by this Agreement. All rights not expressly granted pursuant to this Agreement are reserved by MediaZ.
+
+b. Contribution ownership. MediaZ shall own, and Licensee shall not have any right, title, or interest in, any enhancements or other modifications to the Software or any part thereof created based on any suggestions, enhancement requests, recommendations or other feedback provided by or on behalf of the Licensee.
+
+c. MediaZ indemnification. If you institute litigation or other proceedings against MediaZ (including a cross-claim or counterclaim in a lawsuit) alleging that the Software or associated outputs or results, or any portion of any of the foregoing, constitutes infringement of intellectual property or other rights owned or licensable by you, then any licenses granted to you under this Agreement shall terminate as of the date such litigation or claim is filed or instituted. You will indemnify and hold harmless MediaZ from and against any claim by any third party arising out of or related to your use or distribution of the Software.
+
+d. Copyright information. The Software is owned by MediaZ or its licensor and is protected by Turkish copyright laws and international treaty provisions. You agree not to remove or destroy any copyright notices, trademarks, or other proprietary or confidential legends or markings placed upon or contained within the Software or on any other documentation or materials related to the Software.
+
+e. Third-Party Software licenses. Nodos™ includes Third-Party Software components. If Third-Party Software has separate software license or attribution requirements, the license terms or other attribution requirements for Third-Party Software components can be found in the installation directory. By entering into this Agreement and using Third-Party Software, you are accepting the terms of those licenses. In this case, the Third-Party Software terms will govern your use of the Third-Party Software, and if there is inconsistency, those terms will take precedence over the terms of the License for the Third-Party Software. You agree that the owners of the Third-Party Software are intended Third-Party beneficiaries to this Agreement in relation to your uses of Third-Party Software.
+
+
+6. Disclaimer of Warranty
+UNLESS REQUIRED BY APPLICABLE LAW, THE SOFTWARE AND ANY OUTPUT AND RESULTS THEREFROM ARE PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. YOU ARE SOLELY RESPONSIBLE FOR DETERMINING THE APPROPRIATENESS OF USING OR REDISTRIBUTING THE SOFTWARE OR ANY OUTPUT OR RESULTS AND ASSUME ANY RISKS ASSOCIATED WITH YOUR USE OF THE SOFTWARE AND ANY OUTPUT AND RESULTS.
+
+
+7. Limitation of Liability
+IN NO EVENT WILL MEDIAZ OR ITS AFFILIATES BE LIABLE UNDER ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, TORT, NEGLIGENCE, PRODUCTS LIABILITY, OR OTHERWISE, ARISING OUT OF THIS AGREEMENT, FOR ANY LOST PROFITS OR ANY DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL, EXEMPLARY OR PUNITIVE DAMAGES, EVEN IF MEDIAZ OR ITS AFFILIATES HAVE BEEN ADVISED OF THE POSSIBILITY OF ANY OF THE FOREGOING.
+
+
+8. Lawful Use Only
+You agree that you shall only use the Software and Documentation in a manner that complies with all applicable laws in the jurisdiction in which you use the Software and Documentation, including, but not limited to, applicable restrictions concerning copyright and other intellectual property rights. You will not misuse or otherwise use the software in a malicious way that causes injury or disruption to the websites posted to.
+
+
+9. Term and Termination
+The term of this Agreement will commence upon your acceptance of this Agreement or access to the Software and will continue in full force and effect until terminated in accordance with the terms and conditions herein. MediaZ may terminate this Agreement if you are in breach of any term or condition of this Agreement. Upon termination of this Agreement, you shall delete and cease use of any Software. Sections 3-7 shall survive the termination of this Agreement.
